@@ -45,3 +45,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - `npm run build` — create a production build
 - `npm run start` — serve the production build
 - `npm run lint` — run ESLint
+
+## Requirements
+
+- Node.js 20.9 or later
+- npm (or yarn, pnpm, bun)
