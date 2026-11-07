@@ -50,3 +50,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 - Node.js 20.9 or later
 - npm (or yarn, pnpm, bun)
+
+## Tech Stack
+
+- [Next.js 16](https://nextjs.org) (App Router)
+- [React 19](https://react.dev)
+- [TypeScript](https://www.typescriptlang.org)
+- [Tailwind CSS 4](https://tailwindcss.com)
