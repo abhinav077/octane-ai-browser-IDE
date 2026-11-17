@@ -58,3 +58,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - [React 19](https://react.dev)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwind CSS 4](https://tailwindcss.com)
+
+## Project Structure
+
+```
+app/          App Router pages, layout, and global styles
+public/       Static assets served from the site root
+```
