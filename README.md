@@ -66,3 +66,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 app/          App Router pages, layout, and global styles
 public/       Static assets served from the site root
 ```
+
+## Contributing
+
+1. Create a branch from `main`.
+2. Make your changes and run `npm run lint` and `npm run typecheck`.
+3. Open a pull request.
