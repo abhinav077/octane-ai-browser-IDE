@@ -11,7 +11,8 @@
     "start": "next start",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck"
   },
   "dependencies": {
     "next": "16.2.10",
