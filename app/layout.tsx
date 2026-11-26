@@ -13,8 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  applicationName: "Octane AI Browser IDE",
   title: "Octane AI Browser IDE",
   description: "An AI-powered IDE that runs in the browser.",
+  keywords: ["AI", "IDE", "Browser IDE", "Code Editor", "Next.js"],
 };
 
 export default function RootLayout({
