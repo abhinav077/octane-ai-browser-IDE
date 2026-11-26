@@ -47,6 +47,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - `npm run lint` — run ESLint
 - `npm run lint:fix` — run ESLint and auto-fix issues
 - `npm run typecheck` — type-check with TypeScript
+- `npm run check` — run lint and TypeScript type-checking
 
 ## Requirements
 
@@ -70,5 +71,5 @@ public/       Static assets served from the site root
 ## Contributing
 
 1. Create a branch from `main`.
-2. Make your changes and run `npm run lint` and `npm run typecheck`.
+2. Make your changes and run `npm run check`.
 3. Open a pull request.
